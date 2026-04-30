@@ -13,6 +13,7 @@ My final projects looks more in depth about how much of an impact 3 pointers hav
 
 <img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot2%20Win%20Rate%20by%203PT%20Group.png" width="300"> 
 
+- The larger the percentage on 3's shows a massive increase in winning
 
 ## Graph 3 Illustrates The Distribution of 3PT%
 
