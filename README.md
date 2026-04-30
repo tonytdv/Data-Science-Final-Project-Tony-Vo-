@@ -6,6 +6,8 @@ My final projects looks more in depth about how much of an impact 3 pointers hav
 
 <img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot1%20Win%20Rate%20vs%203PT.png" width="300"> 
 
+- 3Pt% and win rate have a positive correlation
+- 3pt% has a massive effect on winning
 
 ## Graph 2 Illustrates The Win Rate By 3PT% Groups
 
