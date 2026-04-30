@@ -25,3 +25,13 @@ My final projects looks more in depth about how much of an impact 3 pointers hav
 ## Graph 5 Illustrates The Average 3PT% Over Time
 
 <img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot5%20Average%203PT%20Over%20Time.png" width="300"> 
+
+
+## Graph 6 Illustrates The Average FG% Wins vs Losses
+
+<img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot6%20Average%20FG%20Wins%20vs%20Losses.png" width="300"> 
+
+
+## Graph 7 Illustrates Average Points Over Time
+
+<img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot7%20Average%20Points%20Over%20Time.png" width="300"> 
