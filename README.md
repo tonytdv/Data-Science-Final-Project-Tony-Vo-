@@ -10,3 +10,8 @@ My final projects looks more in depth about how much of an impact 3 pointers hav
 ## This Graph Illustrates The Win Rate By 3PT% Groups
 
 <img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot2%20Win%20Rate%20by%203PT%20Group.png" width="300"> 
+
+
+## This Graph Illustrates The Distribution of 3PT%
+
+<img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot3%20Distribution%20of%203PT.png" width="300"> 
