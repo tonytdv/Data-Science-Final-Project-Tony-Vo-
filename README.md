@@ -2,21 +2,26 @@
 My final projects looks more in depth about how much of an impact 3 pointers have made in the NBA. Has it helped NBA teams league wide or does it destroy it? Does it contribute to winning at all?
 
 
-## This Graph Illustrates The Win Rate vs 3PT%
+## Graph 1 Illustrates The Win Rate vs 3PT%
 
 <img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot1%20Win%20Rate%20vs%203PT.png" width="300"> 
 
 
-## This Graph Illustrates The Win Rate By 3PT% Groups
+## Graph 2 Illustrates The Win Rate By 3PT% Groups
 
 <img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot2%20Win%20Rate%20by%203PT%20Group.png" width="300"> 
 
 
-## This Graph Illustrates The Distribution of 3PT%
+## Graph 3 Illustrates The Distribution of 3PT%
 
 <img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot3%20Distribution%20of%203PT.png" width="300"> 
 
 
-## This Graph Illustrates Average 3PT% Wins vs Losses
+## Graph 4 Illustrates Average 3PT% Wins vs Losses
 
 <img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot4%20Average%203PT%20Wins%20vs%20Losses.png" width="300"> 
+
+
+## Graph 5 Illustrates The Average 3PT% Over Time
+
+<img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot5%20Average%203PT%20Over%20Time.png" width="300"> 
