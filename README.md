@@ -11,7 +11,7 @@ The analysis focuses on several key questions.
 - It evaluates whether a higher three-point percentage is associated with a higher probability of winning.
 - It examines whether three-point shooting has increased over time, both in terms of usage and efficiency.
 - It compares teams that rely more heavily on three-point shooting to those that do not, to see if this strategy leads to better performance.
----
+
 # Key Findings & Visualization 
 ---
 
