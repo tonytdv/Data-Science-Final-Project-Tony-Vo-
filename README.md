@@ -14,6 +14,7 @@ The analysis focuses on several key questions.
 ---
 # Key Findings & Visualization 
 ---
+
 ## Graph 1 Illustrates The Win Rate vs 3PT%
 
 <img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot1%20Win%20Rate%20vs%203PT.png" width="300"> 
