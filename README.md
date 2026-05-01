@@ -13,7 +13,7 @@ The analysis focuses on several key questions.
 - It compares teams that rely more heavily on three-point shooting to those that do not, to see if this strategy leads to better performance.
 ---
 # Key Findings & Visualization 
-
+---
 ## Graph 1 Illustrates The Win Rate vs 3PT%
 
 <img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot1%20Win%20Rate%20vs%203PT.png" width="300"> 
