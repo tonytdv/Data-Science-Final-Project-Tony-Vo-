@@ -1,5 +1,14 @@
 # NBA-3PT-Percentage-Analysis-Tony-Vo-
-My final projects looks more in depth about how much of an impact 3 pointers have made in the NBA. Has it helped NBA teams league wide or does it destroy it? Does it contribute to winning at all?
+
+Tony Vo
+ECON 4970 - Economics Data Science
+
+This project analyzes the relationship between three-point shooting and winning outcomes in the NBA using game-level data. The main goal is to determine whether teams with higher three-point shooting percentages are more likely to win games, and to examine how the role of three-point shooting has changed over time.
+
+The analysis focuses on several key questions. 
+- It evaluates whether a higher three-point percentage is associated with a higher probability of winning.
+- It examines whether three-point shooting has increased over time, both in terms of usage and efficiency.
+- It compares teams that rely more heavily on three-point shooting to those that do not, to see if this strategy leads to better performance.
 
 
 ## Graph 1 Illustrates The Win Rate vs 3PT%
