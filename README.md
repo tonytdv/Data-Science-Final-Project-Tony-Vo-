@@ -2,15 +2,14 @@
 ---
 Tony Vo
 ECON 4970 - Economics Data Science
-
+---
 This project analyzes the relationship between three-point shooting and winning outcomes in the NBA using game-level data. The main goal is to determine whether teams with higher three-point shooting percentages are more likely to win games, and to examine how the role of three-point shooting has changed over time.
-
+---
 The analysis focuses on several key questions. 
 - It evaluates whether a higher three-point percentage is associated with a higher probability of winning.
 - It examines whether three-point shooting has increased over time, both in terms of usage and efficiency.
 - It compares teams that rely more heavily on three-point shooting to those that do not, to see if this strategy leads to better performance.
-
-
+---
 ## Graph 1 Illustrates The Win Rate vs 3PT%
 
 <img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot1%20Win%20Rate%20vs%203PT.png" width="300"> 
