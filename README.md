@@ -18,7 +18,7 @@ The analysis focuses on several key research questions.
 
 ## Graph 1 Illustrates The Win Rate vs 3PT%
 
-<img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot1%20Win%20Rate%20vs%203PT.png" width="300"> 
+<img src ="https://github.com/tonytdv/Data-Science-Final-Project-Tony-Vo-/blob/main/Rplot1%20Win%20Rate%20vs%203PT.png" width="400"> 
 
 - 3Pt% and win rate have a positive correlation
 - 3pt% has a massive effect on winning
